@@ -1,8 +1,7 @@
 prefix=@prefix@
 exec_prefix=${prefix}
-srcdir=@datarootdir@/apertium/apertium-ia
+srcdir=@datarootdir@/apertium/apertium-ina
 
-Name: apertium-ia
-Description: Finite-state morphological transducer and constraint grammar for Interlingua 
+Name: apertium-ina
+Description: Finite-state morphological transducer and constraint grammar for Interlingua
 Version: @VERSION@
-

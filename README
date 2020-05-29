@@ -1,6 +1,6 @@
 Interlingua
 
-                            apertium-ia
+                            apertium-ina
 ===============================================================================
 
 This is an Apertium monolingual language package for Interlingua. What
@@ -59,17 +59,17 @@ TODO: test tagger result
 Files and data
 ===============================================================================
 
-* apertium-ia.ia.dix            - Monolingual dictionary
+* apertium-ina.ia.dix            - Monolingual dictionary
 * ia.prob                        - Tagger model
-* apertium-ia.ia.rlx            - Constraint Grammar disambiguation rules
-* apertium-ia.post-ia.dix       - Post-generator
+* apertium-ina.ia.rlx            - Constraint Grammar disambiguation rules
+* apertium-ina.post-ia.dix       - Post-generator
 * modes.xml                       - Translation modes
 
 For more information
 ===============================================================================
 
 * http://wiki.apertium.org/wiki/Installation
-* http://wiki.apertium.org/wiki/apertium-ia
+* http://wiki.apertium.org/wiki/apertium-ina
 * http://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
 
 Help and support

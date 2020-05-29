@@ -1,9 +1,7 @@
 ###############################################################################
-## Makefile for apertium-ia
+## Makefile for apertium-ina
 ###############################################################################
 
-RELEASE=0.1
-VERSION=0.1.0
 LANG1=ina
 BASENAME=apertium-$(LANG1)
 
@@ -98,4 +96,3 @@ test: all
 	@echo "TODO test analysis results" > .test-ref
 	@diff .test-ref .test-mt
 	@rm .test-ref .test-mt
-
