@@ -1,0 +1,22 @@
+[3HXrkWzjEc7z#0] ^le/le<det><def><sp>$ ^femina/femina<n><sg>$
+[/3HXrkWzjEc7z]
+[5qXxJ9DbxOMc#0] ^Cinque/cinque<num>$
+[/5qXxJ9DbxOMc]
+[8lk0C25ULyD-#0] ^Certe/certe<adj>$
+[/8lk0C25ULyD-]
+[CNnLe2CFroK4#0] ^femina/femina<n><sg>$ ^certe/certe<adj>$
+[/CNnLe2CFroK4]
+[HgAPaGySgH55#0] ^le/le<det><def><sp>$ ^femina/femina<n><sg>$ ^pensa/pensar<vblex><pri>/pensar<vblex><imp>$
+[/HgAPaGySgH55]
+[Q_Ao-0zqisXG#0] ^Le/le<det><def><sp>$ ^femina/femina<n><sg>$ ^certe/certe<adj>$
+[/Q_Ao-0zqisXG]
+[UqDZ_niX36kx#0] ^Cantante/cantar<vblex><pprs>$
+[/UqDZ_niX36kx]
+[aJ3gNs_a4JYF#0] ^Vos/vos<prn><p2><mf><pl><nom>$
+[/aJ3gNs_a4JYF]
+[iwSOgpfqJb1L#0] ^lo/*lo$ ^pensa/pensar<vblex><pri>/pensar<vblex><imp>$
+[/iwSOgpfqJb1L]
+[jG9DwCygwyk2#0] ^Le/le<det><def><sp>$ ^femina/femina<n><sg>$
+[/jG9DwCygwyk2]
+[mJmrgzgOiEwZ#0] ^femina/femina<n><sg>$
+[/mJmrgzgOiEwZ]

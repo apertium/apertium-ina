@@ -1,0 +1,13 @@
+# from https://wiki.apertium.org/wiki/Apertium-ina-spa/Regression_tests
+lo pensa
+femina
+femina certe
+le femina
+le femina pensa
+
+Le femina
+Vos
+Certe
+Le femina certe
+Cinque
+Cantante
